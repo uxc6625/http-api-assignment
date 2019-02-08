@@ -1,6 +1,10 @@
 {
   "name": "http-api-assignment-master",
   "version": "1.0.0",
+  "engines": {
+  "node": "8.4",
+  "npm": "6.5.0"
+  },
   "description": "My HTTP API assignment",
   "main": "index.js",
   "scripts": {
