@@ -1,0 +1,21 @@
+{
+  "name": "http-api-assignment-master",
+  "version": "1.0.0",
+  "description": "My HTTP API assignment",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./src/server.js",
+    "pretest": "eslint ./src --fix",
+    "test": "echo \"Tests Complete\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uxc6625/http-api-assignment.git"
+  },
+  "author": "Ulijah Charles",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/uxc6625/http-api-assignment/issues"
+  },
+  "homepage": "https://github.com/uxc6625/http-api-assignment#readme"
+}
